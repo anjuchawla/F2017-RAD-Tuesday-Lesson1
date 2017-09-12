@@ -1,6 +1,6 @@
 ﻿namespace Lesson1Tuesday
 {
-    partial class Form1
+    partial class frmHelloWorld
     {
         /// <summary>
         /// Required designer variable.
